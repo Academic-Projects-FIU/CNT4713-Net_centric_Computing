@@ -1,0 +1,8 @@
+http://fiu.gov
+http://inet.cs.fiu.edu/
+http://google.com/404
+http://google.com/
+http://inet.cs.fiu.edu/temp/deny.html
+http://inet.cs.fiu.edu/page.html
+http://inet.cs.fiu.edu/temp/page.html
+https://www.fiu.edu
